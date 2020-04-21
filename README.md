@@ -1,51 +1,51 @@
-
-相关资源列表
-https://mitre-attack.github.io/ mitre 科技机构对攻击技术的总结 wiki
-https://huntingday.github.io MITRE | ATT&CK 中文站
-https://arxiv.org 康奈尔大学（Cornell University）开放文档
-http://www.owasp.org.cn/owasp-project/owasp-things OWASP 项目
-http://www.irongeek.com/i.php?page=security/hackingillustrated 国内外安全大会相关视频与文档
-https://github.com/knownsec/KCon KCon 大会文章 PPT
-https://github.com/SecWiki/sec-chart 各种相关安全思维导图集合
-https://github.com/knownsec/RD_Checklist 知道创宇技能列表
-https://github.com/ChrisLinn/greyhame-2017 灰袍技能书 2017 版本
-https://github.com/Hack-with-Github/Awesome-Hacking GitHub 万星推荐：黑客成长技术清单
-https://github.com/k4m4/movies-for-hackers 安全相关电影
-https://github.com/jaredthecoder/awesome-vehicle-security 一个用于了解车辆安全和汽车黑客的资源清单
-https://www.jianshu.com/p/852e0fbe2f4c 安全产品厂商分类
-https://www.reddit.com/r/Python/comments/a81mg3/the_entire_mit_intro_computer_science_class_using/ 麻省理工机器学习视频
-https://github.com/fxsjy/jieba py，结巴中文分词
-https://github.com/thunlp/THULAC-Python py，清华中文分词
-https://github.com/lancopku/PKUSeg-python py3，北大中文分词
-https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes 吴恩达机器学习 python 笔记
-https://paperswithcode.com/sota 机器学习具体项目、演示、代码
-https://github.com/duoergun0729/nlp 一本开源的 NLP（神经语言程序学）入门书籍
-https://www.freebuf.com/articles/web/195304.html 一句话木马的套路
-
-攻防测试手册
-https://micropoor.blogspot.com/2019/01/php8.html PHP 安全新闻早 8 点课程系列高持续渗透–Microporor
-https://github.com/Micropoor/Micro8 Microporor 高级攻防 100 课
-https://github.com/maskhed/Papers 包含 100 课等经典攻防教材、安全知识
-https://github.com/infosecn1nja/AD-Attack-Defense 红蓝方攻防手册
-https://github.com/yeyintminthuhtut/Awesome-Red-Teaming 优秀红队资源列表
-https://github.com/foobarto/redteam-notebook 红队标准渗透测试流程+常用命令
-https://github.com/tom0li/collection-document 文章收集：安全部、SDL、src、渗透测试、漏洞利用
-https://github.com/kbandla/APTnotes 各种公开的文件和相关的 APT 笔记，还有软件样本
-https://wizardforcel.gitbooks.io/web-hacking-101/content Web Hacking 101 中文版
-https://techvomit.net/web-application-penetration-testing-notes/ web 渗透测试笔记
-https://github.com/qazbnm456/awesome-web-security Web 安全资料和资源列表
-http://pentestmonkey.net/category/cheat-sheet 渗透测试常见条目
-https://github.com/demonsec666/Security-Toolkit 渗透攻击链中常用工具及使用场景
-https://github.com/Kinimiwar/Penetration-Testing 渗透测试方向优秀资源收集
-https://github.com/jshaw87/Cheatsheets 渗透测试/安全秘籍/笔记
-
-内网安全文档
-https://attack.mitre.org/wiki/Lateral_Movement mitre 机构对横向移动的总结
-https://payloads.online/archivers/2018-11-30/1 彻底理解 Windows 认证 - 议题解读
-https://github.com/klionsec/klionsec.github.io 内网大牛的学习历程
-https://github.com/l3m0n/pentest_study 从零开始内网渗透学习
-https://github.com/Ridter/Intranet_Penetration_Tips 内网渗透 TIPS
-
+****
+相关资源列表  
+https://mitre-attack.github.io/ mitre 科技机构对攻击技术的总结 wiki  
+https://huntingday.github.io MITRE | ATT&CK 中文站  
+https://arxiv.org 康奈尔大学（Cornell University）开放文档    
+http://www.owasp.org.cn/owasp-project/owasp-things OWASP 项目    
+http://www.irongeek.com/i.php?page=security/hackingillustrated 国内外安全大会相关视频与文档  
+https://github.com/knownsec/KCon KCon 大会文章 PPT  
+https://github.com/SecWiki/sec-chart 各种相关安全思维导图集合  
+https://github.com/knownsec/RD_Checklist 知道创宇技能列表   
+https://github.com/ChrisLinn/greyhame-2017 灰袍技能书 2017 版本   
+https://github.com/Hack-with-Github/Awesome-Hacking GitHub 万星推荐：黑客成长技术清单    
+https://github.com/k4m4/movies-for-hackers 安全相关电影   
+https://github.com/jaredthecoder/awesome-vehicle-security 一个用于了解车辆安全和汽车黑客的资源清单  
+https://www.jianshu.com/p/852e0fbe2f4c 安全产品厂商分类   
+https://www.reddit.com/r/Python/comments/a81mg3/the_entire_mit_intro_computer_science_class_using/ 麻省理工机器学习视频   
+https://github.com/fxsjy/jieba py，结巴中文分词   
+https://github.com/thunlp/THULAC-Python py，清华中文分词  
+https://github.com/lancopku/PKUSeg-python py3，北大中文分词  
+https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes 吴恩达机器学习 python 笔记   
+https://paperswithcode.com/sota 机器学习具体项目、演示、代码   
+https://github.com/duoergun0729/nlp 一本开源的 NLP（神经语言程序学）入门书籍   
+https://www.freebuf.com/articles/web/195304.html 一句话木马的套路  
+****
+攻防测试手册   
+https://micropoor.blogspot.com/2019/01/php8.html PHP 安全新闻早 8 点课程系列高持续渗透–Microporor  
+https://github.com/Micropoor/Micro8 Microporor 高级攻防 100 课   
+https://github.com/maskhed/Papers 包含 100 课等经典攻防教材、安全知识   
+https://github.com/infosecn1nja/AD-Attack-Defense 红蓝方攻防手册   
+https://github.com/yeyintminthuhtut/Awesome-Red-Teaming 优秀红队资源列表   
+https://github.com/foobarto/redteam-notebook 红队标准渗透测试流程+常用命令   
+https://github.com/tom0li/collection-document 文章收集：安全部、SDL、src、渗透测试、漏洞利用   
+https://github.com/kbandla/APTnotes 各种公开的文件和相关的 APT 笔记，还有软件样本  
+https://wizardforcel.gitbooks.io/web-hacking-101/content Web Hacking 101 中文版   
+https://techvomit.net/web-application-penetration-testing-notes/ web 渗透测试笔记   
+https://github.com/qazbnm456/awesome-web-security Web 安全资料和资源列表   
+http://pentestmonkey.net/category/cheat-sheet 渗透测试常见条目   
+https://github.com/demonsec666/Security-Toolkit 渗透攻击链中常用工具及使用场景   
+https://github.com/Kinimiwar/Penetration-Testing 渗透测试方向优秀资源收集    
+https://github.com/jshaw87/Cheatsheets 渗透测试/安全秘籍/笔记   
+****
+内网安全文档   
+https://attack.mitre.org/wiki/Lateral_Movement mitre 机构对横向移动的总结   
+https://payloads.online/archivers/2018-11-30/1 彻底理解 Windows 认证 - 议题解读   
+https://github.com/klionsec/klionsec.github.io 内网大牛的学习历程   
+https://github.com/l3m0n/pentest_study 从零开始内网渗透学习   
+https://github.com/Ridter/Intranet_Penetration_Tips 内网渗透 TIPS   
+****
 学习手册相关资源
 https://github.com/HarmJ0y/CheatSheets 多个项目的速查手册（Beacon / Cobalt Strike，PowerView，PowerUp，Empire 和 PowerSploit）
 https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/ Kali Linux Web 渗透测试秘籍 中文版
