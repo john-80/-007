@@ -143,6 +143,7 @@ https://www.exploit-db.com 美国 Offensive Security 的漏洞库
 https://nvd.nist.gov/vuln/search 美国国家信息安全漏洞库  
 **** 
 工具包集合  
+https://github.com/boy-hack/w8fuckcdn 绕过cdn获取网站真实IP  
 http://www.4hou.com/web/11241.html 史上最全攻击模拟工具盘点  
 https://github.com/infosecn1nja/Red-Teaming-Toolkit 信息收集、攻击尝试获得权限、持久性控制、权限提升、网络信息收集、横向移动、数据分析（在这个基础上再做持久化控制）、清理痕迹  
 https://github.com/toolswatch/blackhat-arsenal-tools 黑帽大会工具集  
